@@ -1,0 +1,3 @@
+﻿using FactoryMethodPattern;
+
+Main.Run();

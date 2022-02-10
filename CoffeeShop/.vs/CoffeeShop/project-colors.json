@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "35b47c50-ea6d-44fb-9eb5-f9f706f8155e": {
+      "ProjectGuid": "35b47c50-ea6d-44fb-9eb5-f9f706f8155e",
+      "DisplayName": "CoffeeShop",
+      "ColorIndex": 0
+    }
+  },
+  "NextColorIndex": 1
+}
